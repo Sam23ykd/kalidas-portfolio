@@ -1,7 +1,7 @@
 {
   "name": "kalidas-portfolio",
   "version": "0.1.0",
-  "homepage": "[sam23ykd.github.io](https://Sam23ykd.github.io/kalidas-portfolio)",
+  "homepage": "(https://Sam23ykd.github.io/kalidas-portfolio)",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
