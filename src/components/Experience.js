@@ -38,14 +38,11 @@ const Experience = () => {
       location: "London, UK",
       dates: "Jan 2019 – Jan 2021",
       bullets: [
-      "Delivered Silver and Gold layer implementations in the Azure Data Lake Medallion architecture using ADF and",
-      "Databricks, improving downstream query speeds by 35% and elevating report accuracy by 28%.",
-      "Architected and deployed scalable data warehouses using Azure Synapse, unifying 15+ disparate data sources",
-      "and achieving 32% improvement in cross-department analytics performance.",
+      "Delivered Silver and Gold layer implementations in the Azure Data Lake Medallion architecture using ADF and,Databricks, improving downstream query speeds by 35% and elevating report accuracy by 28%.",
+      "Architected and deployed scalable data warehouses using Azure Synapse, unifying 15+ disparate data sources,and achieving 32% improvement in cross-department analytics performance.",
       "Integrated RESTful API connections into Azure Data Factory pipelines for 15+ critical data sources, accelerating data ingestion by 40%.",
       "Engineered ETL audit and reconciliation frameworks, improving data lineage tracking and accuracy across 15+ key data loads.",
-      "Collaborated with business stakeholders to translate KPI requirements into Power BI dashboards and reports,",
-      "supporting regulatory compliance and operational decision-making.",
+      "Collaborated with business stakeholders to translate KPI requirements into Power BI dashboards and reports, supporting regulatory compliance and operational decision-making.",
       "Resolved 15+ daily production issues on the CDL data platform, improving system stability and pipeline reliability in a live service environment.",
       ]
     },
@@ -55,12 +52,10 @@ const Experience = () => {
       location: "Belfast, UK",
       dates: "Apr 2018 – Jan 2019",
       bullets: [
-      "Migrated 5+ SQL Server systems to AWS Redshift, improving Power BI report performance by 40% through",
-       "optimised schema design and query tuning.",
+      "Migrated 5+ SQL Server systems to AWS Redshift, improving Power BI report performance by 40% through optimised schema design and query tuning.",
       "Built 10+ Power BI dashboards for finance stakeholders, delivering clear data visualisations to support data-driven decision-making.",
       "Engineered PowerShell scripts to automate data transfer across Azure and AWS, reducing manual intervention by 40% across 17+ daily ETL tasks.",
-      "Developed automated SSIS pipelines, reducing manual data movement effort by 25% and improving pipeline ",
-      "consistency from SQL Server to Azure SQL DB.",
+      "Developed automated SSIS pipelines, reducing manual data movement effort by 25% and improving pipeline consistency from SQL Server to Azure SQL DB.",
       ]
     },
       {
@@ -69,10 +64,8 @@ const Experience = () => {
       location: "Switzerland, EU",
       dates: "Mar 2014 – Mar 2018",
       bullets: [
-      "Designed SSIS data ingestion pipelines from 5+ heterogeneous sources including Oracle, improving data flow",
-       "consistency and processing speed for downstream analytics.",
-       "Authored complex SQL stored procedures and optimised query performance by 15%, improving database",
-        "throughput for critical business applications.",
+      "Designed SSIS data ingestion pipelines from 5+ heterogeneous sources including Oracle, improving data flow consistency and processing speed for downstream analytics.",
+       "Authored complex SQL stored procedures and optimised query performance by 15%, improving database throughput for critical business applications.",
       "Managed ETL scheduling using SQL Server Agent, maintaining 99% data availability SLA for daily and monthly business reporting.",
       "Delivered MicroStrategy reporting solutions, improving data consistency by 10% and enabling stakeholder self-service analytics.",
      
@@ -84,12 +77,9 @@ const Experience = () => {
       location: "Denmark, EU",
       dates: "Aug 2011  – Feb 2014",
       bullets: [
-      "Developed advanced SQL queries and SSRS reports with parameterisation and drill-through functionality,",
-       "supporting data-driven decision-making across project teams.",
-       "Implemented SSIS transformation components (Derived Column, Lookup, SCD) to load cleansed, validated data",
-        "into the data warehouse in line with business rules.",
-       "Deployed and scheduled SSIS/SSRS solutions across multiple servers, ensuring timely and accurate data delivery",
-        "to project stakeholders.",
+      "Developed advanced SQL queries and SSRS reports with parameterisation and drill-through functionality supporting data-driven decision-making across project teams.",
+       "Implemented SSIS transformation components (Derived Column, Lookup, SCD) to load cleansed, validated data into the data warehouse in line with business rules.",
+       "Deployed and scheduled SSIS/SSRS solutions across multiple servers, ensuring timely and accurate data delivery to project stakeholders.",
      
       ]
     }
