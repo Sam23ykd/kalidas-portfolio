@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kalidas-portfolio/static/css/main.e6c13ad2.css",
+    "main.css": "/kalidas-portfolio/static/css/main.e21ec588.css",
     "main.js": "/kalidas-portfolio/static/js/main.c1c21dc6.js",
     "index.html": "/kalidas-portfolio/index.html",
-    "main.e6c13ad2.css.map": "/kalidas-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.e21ec588.css.map": "/kalidas-portfolio/static/css/main.e21ec588.css.map",
     "main.c1c21dc6.js.map": "/kalidas-portfolio/static/js/main.c1c21dc6.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.e21ec588.css",
     "static/js/main.c1c21dc6.js"
   ]
 }
